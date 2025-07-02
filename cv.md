@@ -1,5 +1,6 @@
 # **Iuliyeva Anhelina** 💗
-![ава](https://github.com/user-attachments/assets/f6705d4a-4273-470a-804a-0c80eb590604)
+![ава](https://github.com/user-attachments/assets/2cdc5a93-3e95-4edd-a1ee-a226d895f9ea)
+
 
 # Contacts
 ### Email: 
