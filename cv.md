@@ -9,7 +9,7 @@ Anhelina Iulieva (@bleanovaya)
 ### Telegram: 
 @b1ean
 ### Location:
-Minsk, Belarus
+*Minsk, Belarus*
 # About me 🦋
 *I am just beginning my journey in frontend development, currently taking an introductory course and diving into the world of web technologies. Although I don't yet have practical experience, I am highly motivated, detail-oriented, and eager to grow every day. I’m inspired by the idea of creating user interfaces that make people's lives easier and more enjoyable. What sets me apart: Strong ability to learn and self-discipline. Emotional intelligence and teamwork skills. Deep interest in psychology and understanding users’ needs. Attention to detail and a sense of aesthetics. My goal is to master frontend development to the level where I can not only complete tasks, but craft meaningful and thoughtful solutions.😌*
 # Skills: 
