@@ -3,11 +3,11 @@
 
 # Contacts
 ### Email: 
-lina.otherside666@gmail.com
+*lina.otherside666@gmail.com*
 ### Discord:
-Anhelina Iulieva (@bleanovaya)
+*Anhelina Iulieva (@bleanovaya)*
 ### Telegram: 
-@b1ean
+*@b1ean*
 ### Location:
 *Minsk, Belarus*
 # About me 🦋
