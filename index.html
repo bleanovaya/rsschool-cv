@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/icon.ico">
+</head>
+<body>
+    <button id="totop">↑ Top</button>
+<div class="container">
+<header>
+    <div class="profile">
+        <img src="ava.jpg" alt="my photo">
+        <div class="info"><h1>Anhelina Iuliyeva</h1>
+        </div>
+    </div>
+    <nav class="nav-color">
+        <ul>
+            <li><a href="#ab">About Me</a></li>
+            <li><a href="#sk">Skills</a></li>
+            <li><a href="#ce">Code example</a></li>
+            <li><a href="#lp">Project</a></li>
+            <li><a href="#ed">Education</a></li>
+            <li><a href="lg">Language</a></li>
+            <li><a href="#cn">Contacts</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section id="ab">
+        <h2>About Me</h2>
+        <p>I am just beginning my journey in frontend development, currently taking an introductory course and diving into the world of web technologies. Although I don’t yet have practical experience, I am highly motivated, detail-oriented, and eager to grow every day. I’m inspired by the idea of creating user interfaces that make people’s lives easier and more enjoyable. What sets me apart: Strong ability to learn and self-discipline. Emotional intelligence and teamwork skills. Deep interest in psychology and understanding users’ needs. Attention to detail and a sense of aesthetics. My goal is to master frontend development to the level where I can not only complete tasks, but craft meaningful and thoughtful solutions.</p>
+    </section>
+    <section id="sk">
+        <h2>Skills</h2>
+        <ul>
+            <li>Markup Languages: confident knowledge of HTML.</li>
+            <li>Development Tools: Visual Studio Code</li>
+            <li>General Skills: strong learning ability, keen interest in web development, and a readiness to explore new technologies.</li>
+            <li>Currently Learning: JavaScript as part of a frontend development course.</li>
+        </ul>
+    </section>
+    <section id="ce">
+        <h2>Code example</h2>
+        <pre><code>function numberToString(num) {
+  return String(num);
+}
+</code></pre>
+    </section>
+    <section id="lp">
+        <h2>Project</h2>
+        <p>One-Page Portfolio Website Individual project completed as part of a frontend development course Skills used: HTML, basic CSS, foundational understanding of webpage structure</p>
+        <p>Description: Created a simple web page featuring “About Me,” “Skills,” and contact sections. Practiced markup, page layout, and using the Visual Studio Code editor.</p>
+        <a href="https://bleanovaya.github.io/rsschool-cv/cv">CV-markdown</a>
+    </section>
+    <section id="ed">
+        <h2>Education</h2>
+        <p>Linguistic and Humanities College, Minsk. Secondary specialized education Major: Foreign Language (German) 2019 – 2023</p>
+    </section>
+    <section id="lg">
+        <h2>Language</h2>
+        <p>English - Beginner level Continuing to study independently and as part of an online course. I have basic reading comprehension and understanding of simple phrases.</p>
+    </section>
+    <section id="cn">
+        <h2>Contacts</h2>
+        <ul>
+            <li>Email: lina.otherside666@gmail.com</li>
+            <li>Discord: Anhelina Iulieva (@bleanovaya)</li>
+            <li>Telegram: @b1ean</li>
+            <li>Location: Minsk, Belarus</li>
+        </ul>
+    </section>
+</main>
+<footer>
+    <p>
+        <a href="https://github.com/bleanovaya">GitHub</a>|2025|<a href="https://rs.school/courses/javascript-ru"><img src="assets/rs-school-logo.svg" alt="RS School Logo" width="50">
+        </a>
+        </p>
+</footer>
+</div>
+<script>
+    const totop = document.getElementById('totop');
+    window.addEventListener('scroll', () =>{
+        if (window.pageYOffset > 300) {
+            totop.style.display = 'block';
+        } else {
+            totop.style.display = 'none';
+        }
+    })
+    totop.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+</script>
+</body>
+</html>
