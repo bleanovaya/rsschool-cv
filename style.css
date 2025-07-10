@@ -38,11 +38,11 @@ img {
   margin: 20px 0;
   margin-right: 50px;
   display: block;
-  transition: transform 0,5s ease, box-shadow 0,3s ease;
+  transition: transform 0.5s ease, box-shadow 0.3s ease;
 }
 img:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 20px rgba (0 0 0 0.3);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 nav ul{
 list-style: none;
@@ -107,7 +107,7 @@ border-bottom: 2px solid #7c004f;
   border-radius: 50%;
 }
 .profile h1 {
-  margin: 10 0 5px;
+  margin: 10px 0 5px;
   font-size: 50px;
   color: #dcf2ff;
   text-align: left;
@@ -139,7 +139,7 @@ html {
   border-radius: 5px;
   cursor: pointer;
   display: none;
-  transition: opacity 0,3 ease;
+  transition: opacity 0.3s ease;
 }
 #totop:hover {
   background: #a8148a;
